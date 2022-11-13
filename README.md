@@ -6,6 +6,7 @@ graph TD;
     click HS "https://www.amazon.co.jp/gp/product/B075L69WRR/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1"
     BR[Bluetooth-Reciever]
     click BR "https://www.amazon.co.jp/gp/product/B01KTENVK2/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1"
+    Mixer
     click Mixer "https://www.amazon.co.jp/gp/product/B07DRCLCNL/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1"
     BR-->Mixer
     Switch-->CB
